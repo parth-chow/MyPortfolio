@@ -12,8 +12,11 @@
 	width: 100%;
 
 }
+#port{
+	image-resolution: 72dpi;	
+}	
 .jumbotron{
-	background-image: url("../portrait.jpg");
+	
 	background-size: cover;
   	height: 100vh;
   	transition: 0.5s;
