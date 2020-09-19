@@ -2,7 +2,7 @@
   background-image: url(../cover.png);
   background-size: cover;
   height: 100vh;
-  transition: 0.5s;
+  transition: 1s;
   opacity:0;
 }
 
